@@ -1,0 +1,13 @@
+.eye {
+  position: absolute;
+  border: 2px solid #558c8c;
+  border-radius: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.pupil {
+  border: 1px solid black;
+  border-radius: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  background-color: #101919;
+}
